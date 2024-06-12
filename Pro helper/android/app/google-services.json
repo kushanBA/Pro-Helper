@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "936783270368",
+    "project_id": "prohelper-f57b2",
+    "storage_bucket": "prohelper-f57b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936783270368:android:6418dd77896adeff2b1b85",
+        "android_client_info": {
+          "package_name": "com.example.pro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHGfBuDFDbIr6-i4esKO8I-kTRasbw_Cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
